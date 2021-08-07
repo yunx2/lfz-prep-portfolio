@@ -1,0 +1,44 @@
+html {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+/* utility classes */
+
+.white-text {
+  color: white;
+}
+
+.pb-50 {
+  padding-bottom: 50px;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
+
+/* semantic classes */
+
+.page-header {
+  background-color: darkgray;
+}
+
+/* removes default underline on links */
+.nav-item {
+  text-decoration: none;
+}
+
+.nav-item:hover {
+  color: steelblue;
+}
