@@ -4,6 +4,10 @@ html {
 
 /* utility classes */
 
+.text-align-center {
+  text-align: center;
+}
+
 .white-text {
   color: white;
 }
@@ -76,4 +80,10 @@ html {
 .text-align-reset {
   /* the value 'initial' returns the property it is set to to its default */
   text-align: initial;
+}
+
+/* technologies section */
+
+.tech-section {
+  background-color: gainsboro;
 }
