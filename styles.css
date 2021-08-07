@@ -93,3 +93,13 @@ html {
 .projects-section {
   background-color: snow;
 }
+
+/* contact */
+
+.contact-section {
+  background-color: #303b43;
+}
+
+.blue-text {
+  color: lightblue;
+}
