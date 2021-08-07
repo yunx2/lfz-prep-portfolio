@@ -1,5 +1,15 @@
 html {
   font-family: "Source Sans Pro", sans-serif;
+  scroll-behavior: smooth;
+}
+
+/* page background */
+
+body {
+  margin: 0;
+  background-image: url(assets/motherboard-wallpaper.jpg);
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 /* utility classes */
