@@ -66,7 +66,7 @@ html {
   border-bottom: 5px double white;
 }
 
-/* about section */
+/* about */
 
 .about-section {
   background-color: whitesmoke;
@@ -82,8 +82,14 @@ html {
   text-align: initial;
 }
 
-/* technologies section */
+/* technologies */
 
 .tech-section {
   background-color: gainsboro;
+}
+
+/* projects */
+
+.projects-section {
+  background-color: snow;
 }
