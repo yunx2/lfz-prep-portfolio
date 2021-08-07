@@ -30,8 +30,9 @@ html {
 
 /* semantic classes */
 
+/* header section */
 .page-header {
-  background-color: darkgray;
+  background-color: darkslategray;
 }
 
 /* removes default underline on links */
@@ -43,6 +44,7 @@ html {
   color: steelblue;
 }
 
+/* banner / hero-image */
 .hero-image {
   /* value is a CSS function */
   background-image: url(assets/lfz-logo.png);
@@ -58,4 +60,20 @@ html {
   background-color: #303b43;
   border-top: 5px double white;
   border-bottom: 5px double white;
+}
+
+/* about section */
+
+.about-section {
+  background-color: whitesmoke;
+}
+
+.about-image {
+  max-height: 80%;
+  border: 6px solid slategray;
+}
+
+.text-align-reset {
+  /* the value 'initial' returns the property it is set to to its default */
+  text-align: initial;
 }
